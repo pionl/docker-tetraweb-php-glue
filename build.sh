@@ -1,4 +1,4 @@
-versions=(5.5 5.6 7.0 7.1 latest)
+versions=(5.5 5.6 7.0 7.1 7.2 latest)
 
 for i in "${versions[@]}"
 do
