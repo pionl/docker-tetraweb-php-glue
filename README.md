@@ -1,5 +1,8 @@
 # Glue + PHP for CI
+
 Docker image for glue based on [tetraweb/php](https://github.com/TetraWeb/docker/) image. A simple command line tool to generate sprites.
+
+**Deprecated** in favor of https://github.com/pionl/docker-php-laravel-ci-glue with all PHP versions
 
 ## Glue
 
